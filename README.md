@@ -1,3 +1,5 @@
 # hello-world
 schoolproject
-jo boys ik ben nico
+
+Jo boys ik ben Nico, 
+
